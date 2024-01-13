@@ -1,0 +1,1 @@
+# ScencaSmartCitiesHackathon2023

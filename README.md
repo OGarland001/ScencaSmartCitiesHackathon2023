@@ -14,6 +14,11 @@ https://youtu.be/0J2MQuq_Qi8
 ![image](https://github.com/OGarland001/ScencaSmartCitiesHackathon2023/assets/90342911/a7dc6c6e-3e3a-4428-be96-0666effb2d76) | ![image](https://github.com/OGarland001/ScencaSmartCitiesHackathon2023/assets/90342911/5f7bc095-862c-49d6-9a20-22b8520d4984)
 
 ## Back End Python Model
+![image](https://github.com/OGarland001/SenecaSmartCitiesHackathon2023/assets/85836332/035fdfbe-dc0e-4b45-b5e0-5a84a202d905)
+![image](https://github.com/OGarland001/SenecaSmartCitiesHackathon2023/assets/85836332/cffa2e02-d0fc-47a7-8587-5e39cd0c23dd)
+The backend model learns from a CSV file of known bot accounts and known real accounts. to make a prediction based on trends as to the validity of the account (is the account in consideration a bot or a real person).
+
+The models considers if the account has a profile picture or not, how long the username is and if it has words or is just numbers, how long the name is and if it is mainly numbers, if the name is the same as the username, the length of the description, the URL, if the account is private or not, the number of posts, the number of followers, and the numbers of follows. 
 
 ## Future work
-Unfortunately due to changes to the Instagram API and scraping issues this project has been put on backlog for the CTRL-ALT-DEFEAT Team, stay tune in the future for more work by us.
+Unfortunately, due to changes to the Instagram API and scraping issues, this project has been put on the backlog for the CTRL-ALT-DEFEAT Team; stay tuned in the future for more work by us.

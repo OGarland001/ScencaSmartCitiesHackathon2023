@@ -1,4 +1,4 @@
-# ScencaSmartCitiesHackathon2023
+# SenecaSmartCitiesHackathon2023
 ![image](https://github.com/OGarland001/ScencaSmartCitiesHackathon2023/assets/90342911/10aa47c4-426e-4e1d-8a99-42ae14939cbf)
 
 ![image](https://github.com/OGarland001/ScencaSmartCitiesHackathon2023/assets/90342911/23390f17-046a-4578-9f97-08a1e35fac76)

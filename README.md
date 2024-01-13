@@ -15,5 +15,5 @@ https://youtu.be/0J2MQuq_Qi8
 
 ## Back End Python Model
 
-##Future work
+## Future work
 Unfortunately due to changes to the Instagram API and scraping issues this project has been put on backlog for the CTRL-ALT-DEFEAT Team, stay tune in the future for more work by us.
